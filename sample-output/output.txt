@@ -1,0 +1,52 @@
+==================================================
+           LINKED LIST MANAGEMENT SYSTEM
+==================================================
+
+---------------- MAIN MENU ----------------
+1. Singly Linked List
+2. Doubly Linked List
+3. Compare Singly vs Doubly Linked List
+4. Exit
+Enter your choice: 1
+
+------ SINGLY LINKED LIST OPERATIONS ------
+1. Insert at Beginning
+2. Insert at End
+...
+Enter your choice: 2
+Enter value: 40
+Node inserted at the end.
+
+Enter your choice: 2
+Enter value: 10
+Node inserted at the end.
+
+Enter your choice: 2
+Enter value: 30
+Node inserted at the end.
+
+Enter your choice: 12
+HEAD -> 40 -> 10 -> 30 -> NULL
+
+Enter your choice: 18
+List sorted in ascending order.
+
+Enter your choice: 12
+HEAD -> 10 -> 30 -> 40 -> NULL
+
+Enter your choice: 17
+List reversed.
+
+Enter your choice: 12
+HEAD -> 40 -> 30 -> 10 -> NULL
+
+Enter your choice: 20
+(back to Main Menu)
+
+---------------- MAIN MENU ----------------
+1. Singly Linked List
+2. Doubly Linked List
+3. Compare Singly vs Doubly Linked List
+4. Exit
+Enter your choice: 4
+Thank you for using the Linked List Management System!
