@@ -87,8 +87,8 @@ Positions are 1-based. Position 1 refers to the first node. For an even number o
 See `sample-output/output.txt`.
 
 ## Author
- **Name:** Prakriti Singh
- **roll number:** 2515010460
- **systemId:** 2025221948
- **course:** B.Tech CSE (AI & ML)
+ **Name:** Prakriti Singh,
+ **roll number:** 2515010460,
+ **systemId:** 2025221948,
+ **course:** B.Tech CSE (AI & ML),
  **section:** CSG
